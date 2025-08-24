@@ -1,5 +1,5 @@
 {
-  "name": "wshurafa/laravel-payfort",
+  "name": "tabughali/laravel-payfort",
   "description": "Laravel-payfort is a simple package to process payments throught Payfort payment gateway.",
   "keywords": [
     "http",
